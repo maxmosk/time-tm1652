@@ -1,0 +1,4 @@
+[gerrit]
+host=review.gerrithub.io
+project=maxmosk/time-tm1652
+defaultbranch=main
